@@ -1,12 +1,12 @@
 package com.javaprograms;
 
-public class Strings_2 {
+public class Strings_equals_3 {
 
 	public static void main(String[] args) {
 
 		String s="balachandra";
-		String d="babu";
-	    System.out.println(s.concat(d));	
+		String b="sannaka";
+	System.out.println(s.equals(b));	
 		
 	}
 

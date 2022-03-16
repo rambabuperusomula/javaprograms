@@ -1,6 +1,6 @@
 package com.javaprograms;
 
-public class Strings_1 {
+public class Strings_Lenth_1 {
 
 	public static void main(String[] args) {
 

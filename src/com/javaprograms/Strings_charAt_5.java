@@ -1,12 +1,12 @@
 package com.javaprograms;
 
-public class Strings_5 {
+public class Strings_charAt_5 {
 
 	public static void main(String[] args) {
 
 		String s="bal-acha-ndra";
-	    System.out.println(s.split("-"));	
-		
+	    System.out.println(s.charAt(4));	
+	   
 	}
 
 }

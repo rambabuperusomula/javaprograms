@@ -1,12 +1,11 @@
 package com.javaprograms;
 
-public class Strings_3 {
+public class Strings_replace_4 {
 
 	public static void main(String[] args) {
 
 		String s="balachandra";
-		String b="sannaka";
-	System.out.println(s.equals(b));	
+	    System.out.println(s.replace("dra", "yud"));	
 		
 	}
 
